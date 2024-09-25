@@ -18,7 +18,7 @@ const About = () => {
             <div className={`grid xl:grid-cols-3 xl:grid-rows-6 md:grid-cols-2 grid-cols-1 gap-5 h-full`}>
                 <div className={`col-span-1 xl:row-span-3`}>
                     <div className={`grid-container`}>
-                        <img src="/assets/grid1.png" alt="Grid-1" className={`w-full sm:h-[276px] h-fit object-contain`}/>
+                        <img src="/assets/grid1v2.png" alt="Grid-1" className={`w-full sm:h-[276px] h-fit object-contain`}/>
                         <div>
                             <p className={`grid-headtext`}>Hi, I'm Aayan</p>
                             <p className={`grid-subtext`}>With 5 years of experience, I have honed my skills in frontend and Backend development, with a focus on user experience.</p>
@@ -28,7 +28,7 @@ const About = () => {
 
                 <div className={`col-span-1 xl:row-span-3`}>
                     <div className={`grid-container`}>
-                        <img src="/assets/grid2.png" alt="Grid-2" className={`w-full sm:w-[276px] h-fit object-contain`}/>
+                        <img src="/assets/grid2v2.png" alt="Grid-2" className={`w-full sm:w-[276px] h-fit object-contain`}/>
                         <div>
                             <p className={`grid-headtext`}>Tech Stack</p>
                             <p className={`grid-subtext`}>I specialize in JS / TS with a focus on React.</p>
